@@ -2,6 +2,8 @@
 
 ## Ensemble Classical Models + Deep Autoencoder
 
+CLICK HERE TO SEE THE PROJECT : https://network-anomaly-detect-4k6njuhwikfdv8yr2lgrcs.streamlit.app/
+
 A comprehensive, end-to-end network anomaly detection system designed for detecting malicious activities in network traffic using an ensemble of machine learning models combined with deep learning.
 
 ---
